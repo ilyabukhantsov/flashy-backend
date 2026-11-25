@@ -1,0 +1,21 @@
+# Бінарні файли та збірка
+/bin/
+/flashy-server
+*.exe
+*.test
+*.out
+
+# Конфігурація та секрети
+.env
+.env.*
+!.env.example
+
+# IDE / ОС
+.idea/
+.vscode/
+.DS_Store
+
+# Тимчасові файли
+*.log
+tmp/
+coverage.out
