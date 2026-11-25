@@ -75,7 +75,7 @@ docs/                  документація
 Потрібен Go 1.22+. Зовнішніх залежностей немає.
 
 ```bash
-git clone https://github.com/<org>/flashy-backend.git
+git clone https://github.com/ilyabukhantsov/flashy-backend.git
 cd flashy-backend
 
 make test     # тести з покриттям
